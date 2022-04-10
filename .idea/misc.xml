@@ -5,12 +5,28 @@
       <map>
         <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2625" />
         <entry key="app/src/main/res/drawable/bg_gradient.xml" value="0.2625" />
+        <entry key="app/src/main/res/drawable/ic_company.xml" value="0.2625" />
+        <entry key="app/src/main/res/drawable/ic_empty.xml" value="0.2625" />
+        <entry key="app/src/main/res/drawable/ic_favorite.xml" value="0.201" />
+        <entry key="app/src/main/res/drawable/ic_favorite2.xml" value="0.201" />
+        <entry key="app/src/main/res/drawable/ic_favorite_border.xml" value="0.201" />
+        <entry key="app/src/main/res/drawable/ic_language.xml" value="0.201" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.2625" />
+        <entry key="app/src/main/res/drawable/ic_location.xml" value="0.2625" />
+        <entry key="app/src/main/res/drawable/ic_night.xml" value="0.201" />
+        <entry key="app/src/main/res/drawable/ic_repository.xml" value="0.201" />
+        <entry key="app/src/main/res/drawable/ic_search.xml" value="0.2625" />
+        <entry key="app/src/main/res/drawable/ic_settings.xml" value="0.2625" />
         <entry key="app/src/main/res/drawable/ic_start_search.xml" value="0.2625" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_setings.xml" value="0.3582427536231884" />
+        <entry key="app/src/main/res/layout/activity_settings.xml" value="0.3582427536231884" />
         <entry key="app/src/main/res/layout/activity_splash_screen.xml" value="0.3582427536231884" />
-        <entry key="app/src/main/res/layout/activity_user_detail.xml" value="0.3582427536231884" />
+        <entry key="app/src/main/res/layout/activity_user_detail.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/activity_user_favorite.xml" value="0.3582427536231884" />
         <entry key="app/src/main/res/layout/fragment_follow.xml" value="0.2" />
         <entry key="app/src/main/res/layout/item_user.xml" value="0.5848595848595849" />
+        <entry key="app/src/main/res/menu/detail_menu.xml" value="0.5" />
         <entry key="app/src/main/res/menu/main_menu.xml" value="0.3734375" />
         <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2625" />
       </map>
